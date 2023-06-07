@@ -1,0 +1,29 @@
+.right-panel {
+    width: 250px;
+    background-color: #f5f8fa;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .panel-header {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .user-container {
+    margin-top: 10px;
+  }
+  
+  .user-info {
+    margin-bottom: 5px;
+  }
+  
+  .follow-button {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  

@@ -1,0 +1,29 @@
+.profile-info-container {
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+  }
+  
+  .profile-info {
+    width: 200px;
+    padding: 10px;
+    background-color: #f5f8fa;
+    border-radius: 5px;
+  }
+  
+  .new-tweet-card {
+    flex: 1;
+  }
+  
+  .tweet-to-yatin-button {
+    margin-top: 0px;
+    padding: 8px 16px;
+    background-color: #1da1f2;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    justify-content: center
+  }
+  
+  
