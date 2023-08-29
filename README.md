@@ -1,6 +1,6 @@
 # Twitter_ProfilePage_REACT
-This is a small project where I created Twitter clone - Profile page, using React.
-React, Bootstrap and css are used in the project and mongo db is used a database. (Database access is open to all)
+This is a small project where I created a Twitter clone - Profile page, using React.
+React, Bootstrap and css are used in the project and mongo db is used as a database. (Database access is open to all)
 Server.js has the code of setting up mongodb.
 Node modules need to be installed to run the app.
 To run, navigate to ../src and enter command node server.js. This will connect the app to the server. (server runs on 3001 port)
